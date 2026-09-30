@@ -1,0 +1,7 @@
+island_appearance
+island_colors
+island_layout
+tasks.json
+components/Scripts/variables
+__pycache__/
+*.py[cod]
