@@ -20,6 +20,8 @@ A sleek, feature-rich Dynamic Island built with QtQuick/QML for Quickshell on Ar
     chmod +x install.sh
     ./install.sh
 
+  Make sure to update the file inside ~/.config/quickshell/components/Scripts named variables with your actual systems information
+
   Log out and log back in to ensure group permissions (like i2c for brightness control) take full effect.
 
 ## Controls & Usage
